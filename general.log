@@ -1,0 +1,19 @@
+[2022-08-01 22:47:31 INFO]: install::setup-logging ended
+================
+[2022-08-01 22:47:31 INFO]: install::start-up started
+[2022-08-01 22:47:31 INFO]: install::start-up starting services
+[2022-08-01 22:47:31 INFO]: install::start-up ended
+================
+[2022-08-01 22:49:15 INFO]: install::root-check started
+[2022-08-01 22:49:15 INFO]: install::root-check ended
+================
+[2022-08-01 22:49:15 INFO]: install::docker-check started
+[2022-08-01 22:49:15 INFO]: install::docker-check ended
+================
+[2022-08-01 22:49:15 INFO]: install::docker-compose-check started
+[2022-08-01 22:49:15 INFO]: install::docker-compose-check ended
+================
+[2022-08-01 22:49:15 INFO]: install::tear-down started
+[2022-08-01 22:49:15 INFO]: install::tear-down starting services
+[2022-08-01 22:49:15 INFO]: install::tear-down ended
+================
